@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to [inkdropapp/plugins](https://github.com/inkdropapp/plugins): [`packages/insert-date`](https://github.com/inkdropapp/plugins/tree/main/packages/insert-date). It is archived and read-only; please open issues and pull requests there.
+
 # insert-date
 
 ![screenshot](./docs/screenshot.png)
